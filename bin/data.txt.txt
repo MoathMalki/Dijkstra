@@ -1,0 +1,201 @@
+50 150
+Berlin 13.404954 52.520008
+Bangkok 100.523186 13.736717
+Naypyidaw 96.199379 16.871311
+Jakarta 106.774124 -6.121435
+Abuja 7.4833 9.0667
+Windhoek 17.0832 -24.5594
+Antananarivo 47.5361 -23.9137
+Islamabad 73.084488 33.738045
+Ashgabat 58.238056 37.862499
+Oslo 10.757933 59.911491
+Nuuk -34.7216 66.1835
+Muscat 58.545284 23.614328
+AddisAbaba 38.763611 9.005401
+Manila 120.984222 14.599512
+Rome 12.496366 41.902782
+Riyadh 46.71667 24.63333
+Cairo 31.23528 30.04167
+Beijing 116.348 39.959
+Algiers 3.04194 36.75333
+Paris 2.3522219 48.856614
+Tripoli 13.19611 32.87222
+Khartoum 32.53333 15.63333
+Washington -77.03667 38.89500
+Moscow 37.6173 55.755826
+Brasília -46.1728965 -22.9068467
+Ankara 32.85417 39.91944
+Bamako -8.0028892 12.6392316
+NewDelhi 72.8776559 19.0759837
+BuenosAires -58.3712 -34.6037618
+Madrid -3.7037902 40.4167754
+Ottawa -75.70000 50.41694
+Mexico -99.134007 19.380002
+Canberra 149.12807 -35.28346
+Kyiv 30.52333 50.45000
+London -0.0877583 53.2073509
+Rabat -6.8498129 33.9715904
+Bogotá -74.072092 4.710988599999999
+Tehran 51.3889736 35.6891975
+Tokyo 133.6503 35.6762
+Astana 71.449074 51.169392
+Reykjavik -13.827774 67.128288
+Ulaanbaatar 100.918556 48.921230
+Dodoma 35.73947 -6.17221
+Lima -77.042793 -12.046374
+Montevideo -52.164532 -39.901112
+Sucre -65.119293 -18.489689
+Helsinki 24.945831 65.192059
+Stockholm 18.063240 59.334591
+N'Djamena 16.054325 12.137752
+Warsaw 21.017532 52.237049
+Helsinki Cairo
+Windhoek Bangkok
+Warsaw Rabat
+Rabat Nuuk
+Abuja Rabat
+AddisAbaba Cairo
+Riyadh Rabat
+Madrid London
+Berlin Kyiv
+Riyadh Ashgabat
+Brasília Beijing
+Canberra BuenosAires
+London Montevideo
+Nuuk Ankara
+BuenosAires Moscow
+Helsinki Madrid
+Rome Windhoek
+Oslo Cairo
+BuenosAires Windhoek
+Islamabad Ottawa
+Naypyidaw Ashgabat
+Montevideo Tokyo
+Rabat Brasília
+Algiers Ulaanbaatar
+Ashgabat Warsaw
+Nuuk Algiers
+London Tehran
+Warsaw Cairo
+Bamako Bangkok
+Lima Naypyidaw
+Algiers Khartoum
+Manila Antananarivo
+Helsinki Antananarivo
+Tehran Helsinki
+Astana Algiers
+Rome London
+Rome Ulaanbaatar
+Dodoma Windhoek
+Ottawa Astana
+NewDelhi Madrid
+Helsinki Washington
+Tripoli Dodoma
+Ashgabat Rome
+Cairo Khartoum
+Antananarivo London
+Riyadh Reykjavik
+Berlin BuenosAires
+Bangkok Islamabad
+Muscat Madrid
+Antananarivo Khartoum
+Brasília Ottawa
+Astana Bogotá
+Kyiv N'Djamena
+AddisAbaba Ankara
+Bogotá Sucre
+Helsinki Brasília
+Ankara Canberra
+Tehran Paris
+Ashgabat Berlin
+Bamako London
+Warsaw Paris
+Moscow Mexico
+Manila Oslo
+Reykjavik Antananarivo
+Moscow Brasília
+Naypyidaw Sucre
+Brasília Cairo
+Antananarivo Berlin
+Oslo Algiers
+Ulaanbaatar Washington
+Ashgabat Islamabad
+Helsinki Warsaw
+Canberra Antananarivo
+Manila Moscow
+Windhoek Cairo
+Dodoma Bamako
+Paris Bangkok
+Helsinki Berlin
+Rome Paris
+Helsinki Lima
+Astana Tehran
+Manila Tehran
+Beijing Antananarivo
+Khartoum Berlin
+London Rome
+Helsinki Islamabad
+Riyadh N'Djamena
+Sucre Tehran
+Washington Tokyo
+Warsaw Nuuk
+Rabat Sucre
+Paris London
+Brasília London
+Tehran Bogotá
+BuenosAires Beijing
+Stockholm Bogotá
+Cairo Mexico
+Mexico Ulaanbaatar
+Khartoum Tripoli
+N'Djamena Oslo
+Stockholm Moscow
+Tripoli Windhoek
+Antananarivo Tripoli
+Ulaanbaatar N'Djamena
+Bogotá Brasília
+Abuja BuenosAires
+Windhoek Brasília
+Tokyo Islamabad
+Madrid Jakarta
+Bogotá NewDelhi
+Paris Ulaanbaatar
+Tripoli Ashgabat
+Rabat London
+AddisAbaba Dodoma
+Algiers NewDelhi
+Stockholm Islamabad
+Ashgabat NewDelhi
+Antananarivo Jakarta
+Mexico Ottawa
+Naypyidaw Jakarta
+Ankara Ashgabat
+Cairo Reykjavik
+Ottawa Antananarivo
+Naypyidaw Paris
+Bogotá Riyadh
+Montevideo Ashgabat
+Beijing Sucre
+Reykjavik BuenosAires
+NewDelhi Canberra
+Ashgabat Tehran
+Tehran Oslo
+BuenosAires Ulaanbaatar
+Bogotá Kyiv
+Moscow Naypyidaw
+Bamako Lima
+Bamako Mexico 
+London Windhoek
+Rome Kyiv
+Helsinki Dodoma
+Bamako Tehran
+Nuuk Madrid
+Beijing Naypyidaw
+Dodoma Ashgabat
+Khartoum Lima
+Jakarta London
+Warsaw Astana
+Beijing Cairo
+Warsaw Riyadh
+Ashgabat Ulaanbaatar
+Rome Canberra
